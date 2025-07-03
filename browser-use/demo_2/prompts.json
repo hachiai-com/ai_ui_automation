@@ -1,0 +1,5 @@
+[
+  { "task": "Compare the price of gpt-4o and DeepSeek-V3", "model": "qwen2-5-72b-a100" },
+  { "task": "Summarize the key features of the latest iPhone",  "model": "qwen2-5-72b-a100"        },
+  { "task": "Translate 'Hello, world!' to French",             "model": "qwen2-5-72b-a100o"        }
+]
